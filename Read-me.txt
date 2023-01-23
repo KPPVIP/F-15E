@@ -1,0 +1,53 @@
+F-15E Strike Eagle
+------------------
+
+
+Features:
+-Detailed exterior
+-Detailed cockpit
+-Custom normal and specular maps
+-Custom weapons
+-All working standard GTA features
+-Illuminated gauges
+-Custom COL
+
+
+Original Models:
+Ace Combat 7
+
+
+Converted and edited by: SkylineGTRFreak
+
+Please mention me and my YouTube channel ( https://www.youtube.com/user/SkylineGTRR34Freak ) if you're making a video of this.
+
+-----------------------------------------------------------------------------
+Before you use this, make sure to use the CWeaponInfoBlob Limit Adjuster by alexguirre to prevent the game from crashing during loading:
+https://www.gta5-mods.com/tools/cweaponinfoblob-limit-adjuster
+
+
+Instructions [Add-On]:
+
+1. Place the "f15e" folder into [Gamefolder]\update\X64\dlcpacks\
+
+2. With OpenIV, extract [Game folder]\update\update.rpf\common\data\dlclist.xml and edit this with Notepad++. Add the following entry:
+		<Item>dlcpacks:\f15e\</Item>
+
+3. Now you are done, you will need a trainer with "spawn by name" function (Enhanced Native Trainer for example) to spawn the vehicle type in:
+
+"f15e"
+
+
+
+Mod/tuning options:
+Front bumper: flipped cockpit mirrors (only visual)
+Rear Bumper: Working Laser (make sure to have the weapons of Arena War DLC in your inventory for proper effects)
+Spoiler: Switches cluster bombs to long range missiles
+Exhaust: Changes nozzles from idle to afterburner (only visual)
+Chassis: Changes the bomb layout (only visual)
+Roof: Changes the fuel tank layout (only visual)
+
+
+If you're game crashes on startup, download a custom gameconfig.xml for your update.rpf. Example: https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars
+
+I would advise using a Mods folder (more info at OpenIV) 
+and make a backup, I take no responsibility if any shit happens.
